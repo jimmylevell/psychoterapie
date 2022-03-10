@@ -15,7 +15,6 @@ jobs:
         username: deploy@kpsychologovi.cz
         password: ${{ secrets.ftp_password }}
         protocol: ftps
-        dry-run: true
         exclude: |
           **/.git*
           **/.git*/**
