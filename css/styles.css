@@ -7361,6 +7361,7 @@ textarea.form-control-lg {
 
 .mb-1 {
   margin-bottom: 0.25rem !important;
+  font-size: 3rem !important;
 }
 
 .mb-2 {
@@ -11417,6 +11418,7 @@ html {
 
 .btn-xl {
   padding: 1.25rem 2.5rem;
+  margin: 0.5rem;
 }
 
 .download {
